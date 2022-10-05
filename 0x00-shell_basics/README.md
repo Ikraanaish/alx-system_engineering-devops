@@ -5,3 +5,4 @@ ls -l is the command for long listing
 ls -al is the command for long listing including hidden files
 ls -an is the command for numerical long listing
 mkdir is used to make directory
+mv is the command to move directoctory
