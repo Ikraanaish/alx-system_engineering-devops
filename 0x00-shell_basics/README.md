@@ -7,3 +7,4 @@ ls -an is the command for numerical long listing
 mkdir is used to make directory
 mv is the command to move directoctory
 rm to remove file
+rmdir to remove directory
