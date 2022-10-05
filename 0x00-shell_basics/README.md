@@ -1,1 +1,1 @@
-symbolic link
+cp .html
